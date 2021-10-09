@@ -1,0 +1,3 @@
+zomato\data\jpa\SampleDataJpaApplicationTests.class
+zomato\data\jpa\service\CityRepositoryIntegrationTests.class
+zomato\data\jpa\service\HotelRepositoryIntegrationTests.class
